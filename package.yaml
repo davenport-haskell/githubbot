@@ -24,6 +24,8 @@ dependencies:
 - github >= 0.14.0
 - text
 - base-compat
+- bytestring
+- vector
 
 library:
   source-dirs: src
